@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlogaoPhotoBackup": {
+      "commandName": "Project",
+      "commandLineArgs": "draminha"
+    }
+  }
+}
